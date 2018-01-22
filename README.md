@@ -3,4 +3,5 @@
 
 編集ログは全てgitで管理しています。
 
-* [Github]()
+* [Github](https://github.com/s10akir/is11WebTrainingKusatsu)
+* [Github Pages](https://s10akir.github.io/is11WebTrainingKusatsu)
